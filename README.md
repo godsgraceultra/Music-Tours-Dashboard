@@ -23,5 +23,6 @@ This project analyzes historical and recent high-grossing music tours, focusing 
 ## Usage
 
 1. Download the cleaned dataset (`cleaned_dataset.csv`) for analysis or practice.
-2. Explore the data cleaning steps in the provided Jupyter Notebook (`Data_Cleaning.ipynb`).
+2. Explore the data cleaning steps in the provided Jupyter Notebook (`Data Cleaning.ipynb`).
 3. View the final report with visualizations and insights in the PDF (`Music Tours Dashboard Report.pdf`, `Music Tours Dashboard.pdf`).
+4. Open the interactive Power BI dashboard in the PBIX file (`Music Tours Dashboard.pbix`) to explore the visuals and DAX calculations.
